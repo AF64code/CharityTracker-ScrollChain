@@ -6,6 +6,7 @@ The **CharityTracker** smart contract is a transparent and decentralized solutio
 ## Verified Contract
 
 Contract Address: 0x77451aeF3E4C4732BA24051aDaDb92577755240e
+
 View on ScrollScan: ScrollScan Link
 
 ## Features
