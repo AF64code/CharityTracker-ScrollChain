@@ -20,7 +20,7 @@ The **CharityTracker** smart contract is a transparent and decentralized solutio
 - **Network Compatibility:** Ethereum and compatible EVM-based chains
 
 ## Deployment
-To deploy this contract on an Ethereum network:
+To deploy this contract on Scroll Sepolia testnet:
 1. Install [Remix IDE](https://remix.ethereum.org/) or use Hardhat/Truffle.
 2. Compile the contract using Solidity `0.8.16`.
 3. Deploy using MetaMask or a deployed script.
@@ -28,7 +28,7 @@ To deploy this contract on an Ethereum network:
 Alternatively, using Hardhat:
 ```sh
 npx hardhat compile
-npx hardhat run scripts/deploy.js --network <network>
+npx hardhat run scripts/deploy.ts --network ScrollTestnet
 ```
 
 ## Usage
