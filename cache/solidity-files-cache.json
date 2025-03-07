@@ -1,0 +1,111 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\alvin\\scroll-guides\\contract-deploy-demo\\node_modules\\@scroll-tech\\contracts\\libraries\\IScrollMessenger.sol": {
+      "lastModificationDate": 1741211089235,
+      "contentHash": "bebc2c1c76891fcaa824b7fd4c6316c1",
+      "sourceName": "@scroll-tech/contracts/libraries/IScrollMessenger.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "london",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.16"
+      ],
+      "artifacts": [
+        "IScrollMessenger"
+      ]
+    },
+    "C:\\Users\\alvin\\scroll-guides\\contract-deploy-demo\\contracts\\CharityTracker.sol": {
+      "lastModificationDate": 1741254701424,
+      "contentHash": "37d63de3b07a2205df08547da8358fa3",
+      "sourceName": "contracts/CharityTracker.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.16"
+      ],
+      "artifacts": [
+        "CharityTracker"
+      ]
+    },
+    "C:\\Users\\alvin\\CHARITYTRACKER\\charitytracker\\contracts\\CharityTracker.sol": {
+      "lastModificationDate": 1741295039230,
+      "contentHash": "ddd26ef4cee9bb0f08a40fcb304b51ed",
+      "sourceName": "contracts/CharityTracker.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.16"
+      ],
+      "artifacts": [
+        "CharityTracker"
+      ]
+    }
+  }
+}
