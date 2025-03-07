@@ -3,6 +3,11 @@
 ## Overview
 The **CharityTracker** smart contract is a transparent and decentralized solution for tracking donations and expenses in a charity. It enables users to donate funds while allowing the contract owner to withdraw them for specific purposes.
 
+## Verified Contract
+
+Contract Address: 0x77451aeF3E4C4732BA24051aDaDb92577755240e
+View on ScrollScan: ScrollScan Link
+
 ## Features
 - **Accept Donations:** Users can send ETH to the contract as donations.
 - **Track Donations:** Stores donation history including donor address, amount, and timestamp.
