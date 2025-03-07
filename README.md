@@ -6,6 +6,11 @@ The **CharityTracker** smart contract is a transparent and decentralized solutio
 ## Verified Contract
 - **Contract Address:** `0x77451aeF3E4C4732BA24051aDaDb92577755240e`
 - **View on ScrollScan:** [ScrollScan Link](https://sepolia.scrollscan.com/address/0x77451aef3e4c4732ba24051adadb92577755240e)
+![image](https://github.com/user-attachments/assets/1fcf8efd-6ec3-4c5a-89e0-c460e7ba96f9)
+![image](https://github.com/user-attachments/assets/ed29fad6-3194-44ce-9dda-bf946bedf981)
+![image](https://github.com/user-attachments/assets/637342d3-3f0e-4600-82cb-0964c497958c)
+![image](https://github.com/user-attachments/assets/123a3043-deb5-4ebf-8425-aa1065a33db4)
+
 
 ## Features
 - **Accept Donations:** Users can send ETH to the contract as donations.
